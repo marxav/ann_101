@@ -1,6 +1,8 @@
 This directory shows 6 different ways to implement an Artificial Neural Network (ANN)
 * The use case is extremely simple: a simple regression with both inputs and outputs being a single scalar value
-* The network is made of 2 hidden layers and only 97 parameters
+* The network is made of 2 hidden layers of 8 units each, hence an ANN of only 97 parameters
+
+[ANN Architecture](ann_101.png)
 
 The 6 different ways:
 * From scratch: [ann_101_numpy.ipynb](ann_101_numpy.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/1gx0iyzh7yKybdixeW-PHlu38xgEHvXRW#scrollTo=2a7e-4URzVmX))
