@@ -7,5 +7,5 @@ The 6 different ways:
 * With TensorFlow/Keras (sequential API): [ann_101_tensorflow_sequential.ipynb](ann_101_tensorflow_sequential.ipynb)
 * With TensorFlow/Keras (functional API): [ann_101_tensorflow_functional.ipynb](ann_101_tensorflow_functional.ipynb)
 * With PyTorch (sequential API): [ann_101_pytorch_sequential.ipynb](ann_101_pytorch_sequential.ipynb)
-* With PyTorch (moddule API): [ann_101_tensorflow_functional.ipynb](ann_101_pytorch_module.ipynb)
+* With PyTorch (moddule API): [ann_101_tensorflow_module.ipynb](ann_101_pytorch_module.ipynb)
 * With PyTorch Lightning: [ann_101_pytorch_lightning.ipynb](ann_101_pytorch_lightning.ipynb)
