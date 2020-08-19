@@ -10,4 +10,4 @@ The 6 different ways:
 * With TensorFlow/Keras (functional API): [ann_101_tensorflow_functional.ipynb](ann_101_tensorflow_functional.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/1ZbS9iUJhMl9XVm7UJohfTjqMfgT3bYA8?usp=sharing))
 * With PyTorch (sequential API): [ann_101_pytorch_sequential.ipynb](ann_101_pytorch_sequential.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/1hbdmxh2HBkR99QkrnE5a3cCunaBljWU_?usp=sharing))
 * With PyTorch (module API): [ann_101_tensorflow_module.ipynb](ann_101_pytorch_module.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/1JLEe_1ceNZ0Wpbqn3ucHUs0GqJJEBb2i?usp=sharing))
-* With PyTorch Lightning: [ann_101_pytorch_lightning.ipynb](nn_101_pytorch_lightning.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/19TtIgFoxZx8w3-p3dUsby2kaHTWH-Rex?usp=sharing))
+* With PyTorch Lightning: [ann_101_pytorch_lightning.ipynb](ann_101_pytorch_lightning.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/19TtIgFoxZx8w3-p3dUsby2kaHTWH-Rex?usp=sharing))
