@@ -6,7 +6,7 @@ This directory shows 6 different ways to implement an Artificial Neural Network 
 
 The 6 different ways:
 * From scratch: [ann_101_numpy.ipynb](ann_101_numpy.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/1gx0iyzh7yKybdixeW-PHlu38xgEHvXRW?usp=sharing))
-* With Scikit-learn: [ann_101_sklearn.ipynb](ann_101_sklearn.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/1gx0iyzh7yKybdixeW-PHlu38xgEHvXRW?usp=sharing))
+* With Scikit-learn: [ann_101_sklearn.ipynb](ann_101_sklearn.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/1ggkWUb7OBGg25GjeroIBok-VgvzsQigc?usp=sharing))
 * With TensorFlow/Keras (sequential API): [ann_101_tensorflow_sequential.ipynb](ann_101_tensorflow_sequential.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/1HdwtJ8R4XwBXJJeDpz8cnJlbCXqa93ET?usp=sharing))
 * With TensorFlow/Keras (functional API): [ann_101_tensorflow_functional.ipynb](ann_101_tensorflow_functional.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/1ZbS9iUJhMl9XVm7UJohfTjqMfgT3bYA8?usp=sharing))
 * With PyTorch (sequential API): [ann_101_pytorch_sequential.ipynb](ann_101_pytorch_sequential.ipynb) (also displayed in [Google Colab](https://colab.research.google.com/drive/1hbdmxh2HBkR99QkrnE5a3cCunaBljWU_?usp=sharing))
